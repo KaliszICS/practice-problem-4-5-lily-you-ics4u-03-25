@@ -50,7 +50,7 @@ public class Student{
     }
 
     /**
-     * Returns the name, age and student number of a student and returns it in a readable format
+     * Returns the name, age and student number of a student in a readable format
      * @return name, age and student number of a student as a String in the format "name, age - student number" 
      */
     @Override
